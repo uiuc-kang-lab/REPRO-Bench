@@ -1,5 +1,8 @@
 # REPRO-Bench
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2507.18901-b31b1b.svg)](https://arxiv.org/abs/2507.18901)
+
 **📄 Official codebase for the ACL 2025 paper: _REPRO-Bench: Can Agentic AI Systems Assess the Reproducibility of Social Science Papers?_**
 
 
